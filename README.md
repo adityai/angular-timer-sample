@@ -1,4 +1,5 @@
 # AngularTimerSample
+Sample Angular project that demonstrates the use of timers from a component to execute a service call frequently. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
 
